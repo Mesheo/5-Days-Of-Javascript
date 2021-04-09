@@ -1,5 +1,5 @@
 /*
-    Criar uma função que separa consoantes  e vogais de uma string
+    Criar uma função que separa consoantes e vogais de uma string
 */
 
 function vowelsAndConsonants(s) {
