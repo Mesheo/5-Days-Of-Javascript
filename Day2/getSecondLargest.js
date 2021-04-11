@@ -23,7 +23,7 @@ function getSecondLargest(nums) {
 
 function main() {
     var nums = [1, 2, 4, 5];    
-    console.log('o segudno maior nímero é: ', getSecondLargest(nums));
+    console.log('o segudno maior nùmero é: ', getSecondLargest(nums));
 }
 
 main()
