@@ -20,6 +20,9 @@ function isPositive(a) {
     catch(e){
         console.log(e.message);
     }
+    finally{
+        console.log('The process is complete')
+    }
 }
 
 isPositive(21)
