@@ -20,6 +20,7 @@ function isPositive(a) {
     catch(e){
         console.log(e.message);
     }
+    //avisa que o código chegou ao fim independete do que aconteceu durante sua execução
     finally{
         console.log('The process is complete')
     }
