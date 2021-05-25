@@ -50,7 +50,7 @@ The logical part wasn't new to be, but i learn about important string methods as
 * charAt() 
 * search()
 
- The most valueble part was reading about how to make an organized Readme file and expose your code to the world, this article helped and is still helping a lot: 
+ The most valuable part was reading about how to make an organized Readme file and expose your code to the world, this article helped and is still helping a lot: 
 <a href="https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3"> A Beginners Guide to writing a Kickass README ✍ </a>
 
 # Day 2️
