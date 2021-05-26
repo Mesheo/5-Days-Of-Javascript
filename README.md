@@ -197,7 +197,7 @@ console.log(`i Chose ${chooseAssignment} instead of what is inside the variable 
 ```
 
 ### TERNARY OPERATOR
- The ternary operator allows for a compact syntax in the case of binary decisions. Just like if...else staments it has a condition and two expressions. In this case the condition is followed by a `?` and then the two possible expressions came separated by a `:` 
+ The Ternary Operator allows for a compact syntax in the case of binary decisions. Just like if...else staments it has a condition and two expressions. In this case the condition is followed by a `?` and then the two possible expressions came separated by a `:` 
  <p> </p>
 
 Check this `if...else` statement using ternary operator 
